@@ -41,12 +41,12 @@ I design and build scalable automation infrastructures from scratch — combinin
 ### 🔹 Automation Infrastructures
 Production-ready testing frameworks designed for scalability, maintainability, and CI/CD integration.
 
-📂 **[View Python Projects →](projects/python-projects.md)**
+📂 **[View Python Projects →](repo_portfolio_catalog/python-projects.md)**
 
 ### 🔹 Backend & API Validation Systems
 Complex business logic validation using automated tests, SQL queries, and service simulations.
 
-📂 **[View Automation Projects →](projects/automation-projects.md)**
+📂 **[View Automation Projects →](repo_portfolio_catalog/automation-projects.md)**
 
 ### 🔹 Service Simulators
 Custom mock systems exposed as APIs or packages to reproduce real-world scenarios.
@@ -54,7 +54,7 @@ Custom mock systems exposed as APIs or packages to reproduce real-world scenario
 ### 🔹 AI-Assisted Engineering Workflows
 Integrations that allow AI agents to interact with development tools and pipelines.
 
-📂 **[View DevOps Projects →](projects/devops-projects.md)**
+📂 **[View DevOps Projects →](repo_portfolio_catalog/devops-projects.md)**
 
 ---
 
@@ -63,16 +63,16 @@ Integrations that allow AI agents to interact with development tools and pipelin
 Explore my work across different domains:
 
 ### 🐍 Python & Automation
-📂 **[Python Projects](projects/python-projects.md)** — Testing frameworks, utilities, and automation tools
+📂 **[Python Projects](repo_portfolio_catalog/python-projects.md)** — Testing frameworks, utilities, and automation tools
 
 ### ⚙️ DevOps & Infrastructure
-📂 **[DevOps Projects](projects/devops-projects.md)** — CI/CD pipelines, cloud infrastructure, and deployment automation
+📂 **[DevOps Projects](repo_portfolio_catalog/devops-projects.md)** — CI/CD pipelines, cloud infrastructure, and deployment automation
 
 ### 🤖 Test Automation
-📂 **[Automation Projects](projects/automation-projects.md)** — End-to-end frameworks, API testing, and validation systems
+📂 **[Automation Projects](repo_portfolio_catalog/automation-projects.md)** — End-to-end frameworks, API testing, and validation systems
 
 ### 💡 Highlights & Experiments
-📂 **[Special Projects](projects/special-projects.md)** — Unique solutions, experiments, and interesting implementations
+📂 **[Special Projects](repo_portfolio_catalog/special-projects.md)** — Unique solutions, experiments, and interesting implementations
 
 ---
 
