@@ -1,3 +1,5 @@
+![Aristotle Wisdom and Family Heraldry Banner.png](Aristotle%20Wisdom%20and%20Family%20Heraldry%20Banner.png)
+
 # 👋 Hi, I'm Ariel Forner Cotrim
 
 🚀 QA & Automation Infrastructure Engineer | AI-Driven Engineering | Backend & Systems Quality  
