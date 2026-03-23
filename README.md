@@ -41,20 +41,22 @@ I design and build scalable automation infrastructures from scratch — combinin
 ### 🔹 Automation Infrastructures
 Production-ready testing frameworks designed for scalability, maintainability, and CI/CD integration.
 
-📂 **[View Python Projects →](repo_portfolio_catalog/python-projects.md)**
+📂 **[Repo link placeholder](repo link placeholder)**
 
 ### 🔹 Backend & API Validation Systems
 Complex business logic validation using automated tests, SQL queries, and service simulations.
 
-📂 **[View Automation Projects →](repo_portfolio_catalog/automation-projects.md)**
+📂 **[Repo link placeholder](repo link placeholder)**
 
 ### 🔹 Service Simulators
 Custom mock systems exposed as APIs or packages to reproduce real-world scenarios.
 
+📂 **[Repo link placeholder](repo link placeholder)**
+
 ### 🔹 AI-Assisted Engineering Workflows
 Integrations that allow AI agents to interact with development tools and pipelines.
 
-📂 **[View DevOps Projects →](repo_portfolio_catalog/devops-projects.md)**
+📂 **[Repo link placeholder](repo link placeholder)**
 
 ---
 
@@ -63,16 +65,16 @@ Integrations that allow AI agents to interact with development tools and pipelin
 Explore my work across different domains:
 
 ### 🐍 Python & Automation
-📂 **[Python Projects](repo_portfolio_catalog/python-projects.md)** — Testing frameworks, utilities, and automation tools
+📂 **[Repo link placeholder](repo link placeholder)** — Testing frameworks, utilities, and automation tools
 
 ### ⚙️ DevOps & Infrastructure
-📂 **[DevOps Projects](repo_portfolio_catalog/devops-projects.md)** — CI/CD pipelines, cloud infrastructure, and deployment automation
+📂 **[Repo link placeholder](repo link placeholder)** — CI/CD pipelines, cloud infrastructure, and deployment automation
 
 ### 🤖 Test Automation
-📂 **[Automation Projects](repo_portfolio_catalog/automation-projects.md)** — End-to-end frameworks, API testing, and validation systems
+📂 **[Repo link placeholder](repo link placeholder)** — End-to-end frameworks, API testing, and validation systems
 
 ### 💡 Highlights & Experiments
-📂 **[Special Projects](repo_portfolio_catalog/special-projects.md)** — Unique solutions, experiments, and interesting implementations
+📂 **[Repo link placeholder](repo link placeholder)** — Unique solutions, experiments, and interesting implementations
 
 ---
 
