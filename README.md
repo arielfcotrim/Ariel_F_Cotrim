@@ -9,6 +9,23 @@ I design and build scalable automation infrastructures from scratch — combinin
 
 ---
 
+## 📫 Contact & Links
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/arielfcotrim  
+- 💻 GitHub: https://github.com/arielfcotrim  
+- 📧 Email: arielforner@gmail.com
+
+---
+
+## 🌍 Languages
+
+- Hebrew — Native
+- English — Fluent
+- Portuguese — Fluent
+- Spanish — Basic
+
+---
+
 ## 🧠 About Me
 
 - 🏗️ Automation Infrastructure Engineer at **Pango**
@@ -16,6 +33,22 @@ I design and build scalable automation infrastructures from scratch — combinin
 - ⚙️ Specialized in backend systems, APIs, and distributed environments
 - 🔬 Passionate about building tools that increase engineering velocity and product reliability
 - 💪 Outside tech: lifting heavy weights, martial arts, playing guitar
+
+---
+
+## 🏗️ What I Build
+
+### 🔹 Automation Infrastructures
+Production-ready testing frameworks designed for scalability, maintainability, and CI/CD integration.
+
+### 🔹 Backend & API Validation Systems
+Complex business logic validation using automated tests, SQL queries, and service simulations.
+
+### 🔹 Service Simulators
+Custom mock systems exposed as APIs or packages to reproduce real-world scenarios.
+
+### 🔹 AI-Assisted Engineering Workflows
+Integrations that allow AI agents to interact with development tools and pipelines.
 
 ---
 
@@ -75,22 +108,6 @@ The best time to build robust infrastructure is when the product is young and co
 
 ---
 
-## 🏗️ What I Build
-
-### 🔹 Automation Infrastructures
-Production-ready testing frameworks designed for scalability, maintainability, and CI/CD integration.
-
-### 🔹 Backend & API Validation Systems
-Complex business logic validation using automated tests, SQL queries, and service simulations.
-
-### 🔹 Service Simulators
-Custom mock systems exposed as APIs or packages to reproduce real-world scenarios.
-
-### 🔹 AI-Assisted Engineering Workflows
-Integrations that allow AI agents to interact with development tools and pipelines.
-
----
-
 ## 💼 Professional Experience Highlights
 
 ### 🏢 Pango — Automation Infrastructure Engineer (2024–Present)
@@ -112,23 +129,6 @@ Integrations that allow AI agents to interact with development tools and pipelin
 - Automated device provisioning for CI/CD pipelines
 - Built Python & PowerShell systems for firmware calibration and telemetry collection
 - Supported large-scale research and hardware validation projects
-
----
-
-## 🌍 Languages
-
-- Hebrew — Native
-- English — Fluent
-- Portuguese — Fluent
-- Spanish — Basic
-
----
-
-## 📫 Contact & Links
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/arielfcotrim  
-- 💻 GitHub: https://github.com/arielfcotrim  
-- 📧 Email: arielforner@gmail.com  
 
 ---
 
