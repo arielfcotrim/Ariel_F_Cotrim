@@ -99,7 +99,7 @@ The best time to build robust infrastructure is when the product is young and co
 
 ## 🛠️ Tech Stack & Tools
 
-### Languages
+### Programming Languages
 - Python
 - Java
 - SQL
@@ -153,6 +153,26 @@ The best time to build robust infrastructure is when the product is young and co
 - Automated device provisioning for CI/CD pipelines
 - Built Python & PowerShell systems for firmware calibration and telemetry collection
 - Supported large-scale research and hardware validation projects
+
+---
+
+🎓 Education & Certifications
+📜 Certifications
+- Fullstack Python Test Automation & AI Agents — Atid Automation (Yoni Flenner), 2024
+- DevSecOps — Bar-Ilan University, 2023
+- Fullstack Java Test Automation — Atid Automation (Yoni Flenner), 2022
+- QA Web & Mobile + Python Automation — SV College, 2021–2022
+
+🎓 Education
+- [Degree / Program Name] — [Institution], [Year]
+- [Degree / Program Name] — [Institution], [Year]
+
+🧩 Continuous Learning
+
+Courses, workshops, and self-directed learning relevant to engineering and automation:
+
+- [Course or Topic] — [Platform / Provider], [Year]
+- [Course or Topic] — [Platform / Provider], [Year]
 
 ---
 
