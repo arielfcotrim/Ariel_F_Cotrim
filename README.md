@@ -1,4 +1,4 @@
-![Aristotle Wisdom and Family Heraldry Banner.png](Aristotle%20Wisdom%20and%20Family%20Heraldry%20Banner.png)
+![Aristotle Wisdom and Family Heraldry Banner.png](resources/Aristotle%20Wisdom%20and%20Family%20Heraldry%20Banner.png)
 
 # 👋 Hi, I'm Ariel Forner Cotrim
 
