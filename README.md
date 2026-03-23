@@ -19,6 +19,27 @@ I design and build scalable automation infrastructures from scratch — combinin
 
 ---
 
+## 🎯 Engineering Philosophy
+
+> **"Measure Twice, Cut Once."**
+
+> **"Dress me slowly, I am in a hurry."** — Napoleon Bonaparte
+
+I approach test infrastructure with deliberate planning and intentional design. Building scalable automation is not about perfectionism — it's about **investing time upfront to earn speed and reliability later**.
+
+### Core Beliefs
+
+- **Plan Before Implementing** — Understand the problem deeply before coding the solution
+- **Build Reusable Foundations** — Design abstraction layers, factories, and utilities from day one
+- **Design for Scale Early** — Structure for parallelization and growth when the cost of change is lowest
+- **Document Decisions** — Explain the "why", not just the "what"
+
+The best time to build robust infrastructure is when the product is young and complexity is manageable. Rushing creates technical debt that becomes exponentially costlier to fix at scale.
+
+**The result:** Fast feedback, high confidence, easy maintenance, and systems that scale 10x without redesign.
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ### Languages
